@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<taller>
+    <orden estado="FINALIZADA" id="1">
+        <tecnico>Marta</tecnico>
+        <linea importe="45.0">Fuente de alimentación</linea>
+        <linea importe="52.5">Diagnóstico y sustitución</linea>
+        <linea importe="120.0">Portátil de sustitución</linea>
+        <linea importe="60.0">Desplazamiento a casa del cliente</linea>
+    </orden>
+    <orden estado="ENTREGADA" id="2">
+        <tecnico>Ibai</tecnico>
+        <linea importe="89.9">Pantalla 15,6 pulgadas</linea>
+        <linea importe="30.0">Montaje</linea>
+    </orden>
+    <orden estado="FINALIZADA" id="3">
+        <tecnico>Marta</tecnico>
+        <linea importe="64.0">RAM 8GB</linea>
+        <linea importe="17.5">Instalación</linea>
+    </orden>
+    <orden estado="RECIBIDA" id="4">
+        <tecnico>Ibai</tecnico>
+    </orden>
+</taller>
